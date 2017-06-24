@@ -1,0 +1,256 @@
+0:None:None
+1:LButton:LButton
+2:RButton:RButton
+3:Cancel:Cancel
+4:MButton:MButton
+5:XButton1:XButton1
+6:XButton2:XButton2
+7:LButton, XButton2:LButton, XButton2
+8:Back:Back
+9:Tab:Tab
+10:LineFeed:LineFeed
+11:LButton, LineFeed:LButton, LineFeed
+12:Clear:Clear
+13:Return:Return
+14:RButton, Clear:RButton, Clear
+15:RButton, Return:RButton, Return
+16:ShiftKey:ShiftKey
+17:ControlKey:ControlKey
+18:Menu:Menu
+19:Pause:Pause
+20:Capital:Capital
+21:KanaMode:KanaMode
+22:RButton, Capital:RButton, Capital
+23:JunjaMode:JunjaMode
+24:FinalMode:FinalMode
+25:HanjaMode:HanjaMode
+26:RButton, FinalMode:RButton, FinalMode
+27:Escape:Escape
+28:IMEConvert:IMEConvert
+29:IMENonconvert:IMENonconvert
+30:IMEAceept:IMEAceept
+31:IMEModeChange:IMEModeChange
+32:Space:Space
+33:PageUp:PageUp
+34:Next:Next
+35:End:End
+36:Home:Home
+37:Left:Left
+38:Up:Up
+39:Right:Right
+40:Down:Down
+41:Select:Select
+42:Print:Print
+43:Execute:Execute
+44:PrintScreen:PrintScreen
+45:Insert:Insert
+46:Delete:Delete
+47:Help:Help
+48:D0:D0
+49:D1:D1
+50:D2:D2
+51:D3:D3
+52:D4:D4
+53:D5:D5
+54:D6:D6
+55:D7:D7
+56:D8:D8
+57:D9:D9
+58:RButton, D8:RButton, D8
+59:RButton, D9:RButton, D9
+60:MButton, D8:MButton, D8
+61:MButton, D9:MButton, D9
+62:XButton2, D8:XButton2, D8
+63:XButton2, D9:XButton2, D9
+64:64:64
+65:A:A
+66:B:B
+67:C:C
+68:D:D
+69:E:E
+70:F:F
+71:G:G
+72:H:H
+73:I:I
+74:J:J
+75:K:K
+76:L:L
+77:M:M
+78:N:N
+79:O:O
+80:P:P
+81:Q:Q
+82:R:R
+83:S:S
+84:T:T
+85:U:U
+86:V:V
+87:W:W
+88:X:X
+89:Y:Y
+90:Z:Z
+91:LWin:LWin
+92:RWin:RWin
+93:Apps:Apps
+94:RButton, RWin:RButton, RWin
+95:Sleep:Sleep
+96:NumPad0:NumPad0
+97:NumPad1:NumPad1
+98:NumPad2:NumPad2
+99:NumPad3:NumPad3
+100:NumPad4:NumPad4
+101:NumPad5:NumPad5
+102:NumPad6:NumPad6
+103:NumPad7:NumPad7
+104:NumPad8:NumPad8
+105:NumPad9:NumPad9
+106:Multiply:Multiply
+107:Add:Add
+108:Separator:Separator
+109:Subtract:Subtract
+110:Decimal:Decimal
+111:Divide:Divide
+112:F1:F1
+113:F2:F2
+114:F3:F3
+115:F4:F4
+116:F5:F5
+117:F6:F6
+118:F7:F7
+119:F8:F8
+120:F9:F9
+121:F10:F10
+122:F11:F11
+123:F12:F12
+124:F13:F13
+125:F14:F14
+126:F15:F15
+127:F16:F16
+128:F17:F17
+129:F18:F18
+130:F19:F19
+131:F20:F20
+132:F21:F21
+133:F22:F22
+134:F23:F23
+135:F24:F24
+136:Back, F17:Back, F17
+137:Back, F18:Back, F18
+138:Back, F19:Back, F19
+139:Back, F20:Back, F20
+140:Back, F21:Back, F21
+141:Back, F22:Back, F22
+142:Back, F23:Back, F23
+143:Back, F24:Back, F24
+144:NumLock:NumLock
+145:Scroll:Scroll
+146:RButton, NumLock:RButton, NumLock
+147:RButton, Scroll:RButton, Scroll
+148:MButton, NumLock:MButton, NumLock
+149:MButton, Scroll:MButton, Scroll
+150:XButton2, NumLock:XButton2, NumLock
+151:XButton2, Scroll:XButton2, Scroll
+152:Back, NumLock:Back, NumLock
+153:Back, Scroll:Back, Scroll
+154:LineFeed, NumLock:LineFeed, NumLock
+155:LineFeed, Scroll:LineFeed, Scroll
+156:Clear, NumLock:Clear, NumLock
+157:Clear, Scroll:Clear, Scroll
+158:RButton, Clear, NumLock:RButton, Clear, NumLock
+159:RButton, Clear, Scroll:RButton, Clear, Scroll
+160:LShiftKey:LShiftKey
+161:RShiftKey:RShiftKey
+162:LControlKey:LControlKey
+163:RControlKey:RControlKey
+164:LMenu:LMenu
+165:RMenu:RMenu
+166:BrowserBack:BrowserBack
+167:BrowserForward:BrowserForward
+168:BrowserRefresh:BrowserRefresh
+169:BrowserStop:BrowserStop
+170:BrowserSearch:BrowserSearch
+171:BrowserFavorites:BrowserFavorites
+172:BrowserHome:BrowserHome
+173:VolumeMute:VolumeMute
+174:VolumeDown:VolumeDown
+175:VolumeUp:VolumeUp
+176:MediaNextTrack:MediaNextTrack
+177:MediaPreviousTrack:MediaPreviousTrack
+178:MediaStop:MediaStop
+179:MediaPlayPause:MediaPlayPause
+180:LaunchMail:LaunchMail
+181:SelectMedia:SelectMedia
+182:LaunchApplication1:LaunchApplication1
+183:LaunchApplication2:LaunchApplication2
+184:Back, MediaNextTrack:Back, MediaNextTrack
+185:Back, MediaPreviousTrack:Back, MediaPreviousTrack
+186:Oem1:Oem1
+187:Oemplus:Oemplus
+188:Oemcomma:Oemcomma
+189:OemMinus:OemMinus
+190:OemPeriod:OemPeriod
+191:OemQuestion:OemQuestion
+192:Oemtilde:Oemtilde
+193:LButton, Oemtilde:LButton, Oemtilde
+194:RButton, Oemtilde:RButton, Oemtilde
+195:Cancel, Oemtilde:Cancel, Oemtilde
+196:MButton, Oemtilde:MButton, Oemtilde
+197:XButton1, Oemtilde:XButton1, Oemtilde
+198:XButton2, Oemtilde:XButton2, Oemtilde
+199:LButton, XButton2, Oemtilde:LButton, XButton2, Oemtilde
+200:Back, Oemtilde:Back, Oemtilde
+201:Tab, Oemtilde:Tab, Oemtilde
+202:LineFeed, Oemtilde:LineFeed, Oemtilde
+203:LButton, LineFeed, Oemtilde:LButton, LineFeed, Oemtilde
+204:Clear, Oemtilde:Clear, Oemtilde
+205:Return, Oemtilde:Return, Oemtilde
+206:RButton, Clear, Oemtilde:RButton, Clear, Oemtilde
+207:RButton, Return, Oemtilde:RButton, Return, Oemtilde
+208:ShiftKey, Oemtilde:ShiftKey, Oemtilde
+209:ControlKey, Oemtilde:ControlKey, Oemtilde
+210:Menu, Oemtilde:Menu, Oemtilde
+211:Pause, Oemtilde:Pause, Oemtilde
+212:Capital, Oemtilde:Capital, Oemtilde
+213:KanaMode, Oemtilde:KanaMode, Oemtilde
+214:RButton, Capital, Oemtilde:RButton, Capital, Oemtilde
+215:JunjaMode, Oemtilde:JunjaMode, Oemtilde
+216:FinalMode, Oemtilde:FinalMode, Oemtilde
+217:HanjaMode, Oemtilde:HanjaMode, Oemtilde
+218:RButton, FinalMode, Oemtilde:RButton, FinalMode, Oemtilde
+219:OemOpenBrackets:OemOpenBrackets
+220:Oem5:Oem5
+221:Oem6:Oem6
+222:Oem7:Oem7
+223:Oem8:Oem8
+224:Space, Oemtilde:Space, Oemtilde
+225:PageUp, Oemtilde:PageUp, Oemtilde
+226:OemBackslash:OemBackslash
+227:LButton, OemBackslash:LButton, OemBackslash
+228:Home, Oemtilde:Home, Oemtilde
+229:ProcessKey:ProcessKey
+230:MButton, OemBackslash:MButton, OemBackslash
+231:Packet:Packet
+232:Down, Oemtilde:Down, Oemtilde
+233:Select, Oemtilde:Select, Oemtilde
+234:Back, OemBackslash:Back, OemBackslash
+235:Tab, OemBackslash:Tab, OemBackslash
+236:PrintScreen, Oemtilde:PrintScreen, Oemtilde
+237:Back, ProcessKey:Back, ProcessKey
+238:Clear, OemBackslash:Clear, OemBackslash
+239:Back, Packet:Back, Packet
+240:D0, Oemtilde:D0, Oemtilde
+241:D1, Oemtilde:D1, Oemtilde
+242:ShiftKey, OemBackslash:ShiftKey, OemBackslash
+243:ControlKey, OemBackslash:ControlKey, OemBackslash
+244:D4, Oemtilde:D4, Oemtilde
+245:ShiftKey, ProcessKey:ShiftKey, ProcessKey
+246:Attn:Attn
+247:Crsel:Crsel
+248:Exsel:Exsel
+249:EraseEof:EraseEof
+250:Play:Play
+251:Zoom:Zoom
+252:NoName:NoName
+253:Pa1:Pa1
+254:OemClear:OemClear
+255:LButton, OemClear:LButton, OemClear

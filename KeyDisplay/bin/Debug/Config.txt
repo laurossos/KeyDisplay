@@ -1,0 +1,5 @@
+FontFamily:Microsoft Sans Serif
+FontStyle:Regular
+FontSize:36
+Color:#FFFFFF
+DisplayTime:1
