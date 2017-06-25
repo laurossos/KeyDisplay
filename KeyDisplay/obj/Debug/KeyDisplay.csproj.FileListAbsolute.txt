@@ -1,9 +1,0 @@
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\bin\Debug\KeyDisplay.exe.config
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\bin\Debug\KeyDisplay.exe
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\bin\Debug\KeyDisplay.pdb
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\obj\Debug\KeyDisplay.csprojResolveAssemblyReference.cache
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\obj\Debug\KeyDisplay.Form1.resources
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\obj\Debug\KeyDisplay.Properties.Resources.resources
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\obj\Debug\KeyDisplay.csproj.GenerateResource.Cache
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\obj\Debug\KeyDisplay.exe
-D:\KeyDisplaySoftware\KeyDisplay0.3\KeyDisplay\obj\Debug\KeyDisplay.pdb
