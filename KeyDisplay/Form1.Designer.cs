@@ -69,6 +69,7 @@ namespace KeyDisplay
             // 
             // label1
             // 
+            this.label1.AutoEllipsis = true;
             this.label1.BackColor = System.Drawing.Color.Black;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
@@ -78,7 +79,6 @@ namespace KeyDisplay
             this.label1.Size = new System.Drawing.Size(903, 140);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ready";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // color_button
             // 
@@ -199,11 +199,13 @@ namespace KeyDisplay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gray;
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(984, 143);
             this.Controls.Add(this.button_toggle_menu);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.label1);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
+            this.ForeColor = System.Drawing.Color.Black;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "KeyDisplay";

@@ -387,8 +387,6 @@ namespace KeyDisplay
             string[] lines = File.ReadAllLines("./Config.txt");
 
             this.FormBorderStyle = FormBorderStyle.None;
-            //this.TransparencyKey = Color.Gray;
-            //this.BackColor = Color.Gray;
             this.Width = Screen.PrimaryScreen.Bounds.Width;
 
             ThreadStart keyboardthread = new ThreadStart(ManageKeyboardHook);
@@ -480,14 +478,10 @@ namespace KeyDisplay
 
         private void SetColor(Color col)
         {
-            Color keycol;
-            if (col.R == 255)
+            Color keycol = Color.FromArgb(255, 1, 1, 1);
+            if (col.GetBrightness() > 0.5)
             {
-                keycol = Color.FromArgb(255, col.R-1, col.G, col.B);
-            }
-            else
-            {
-                keycol = Color.FromArgb(255, col.R+1, col.G, col.B);
+                keycol = Color.FromArgb(255, 254, 254, 254);
             }
             this.BackColor = keycol;
             this.TransparencyKey = keycol;
@@ -509,10 +503,6 @@ namespace KeyDisplay
         private void Form1_Load(object sender, EventArgs e)
         {
             setpos(3);
-        }
-        private void label1_Click(object sender, EventArgs e)
-        {
-            //label1.Text = Control.ModifierKeys.ToString();
         }
 
         private void color_button_Click(object sender, EventArgs e)
